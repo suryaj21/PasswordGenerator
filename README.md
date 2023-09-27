@@ -1,2 +1,2 @@
 # PasswordGenerator
-This generates customize password for the user using JavaScript logic.
+"Introducing my recent project: a robust and user-friendly Password Generator built with HTML, Tailwind CSS, and JavaScript. This tool empowers users to effortlessly create custom passwords tailored to their specific security needs. With a sleek and intuitive interface, users can select from a variety of options, including special characters, numeric values, uppercase letters, and lowercase letters. Behind the scenes, sophisticated JavaScript logic and functions handle the generation process, ensuring that every generated password is both secure and unique. Say goodbye to password-related worries and hello to a hassle-free password creation experience!"
